@@ -1,5 +1,3 @@
-# laravelapivueui-loundryku
-
 ## Project setup
 ```
 npm install
